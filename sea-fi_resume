@@ -1,0 +1,29 @@
+We accepted the challenge!
+
+We are very enthusiastic about the possibilities and opportunities that the advances related to technology have been bringing to the society all around the world, so we decided to pick the challenge “Internet on the Oceans” because it asked a provision of internet access to those who need. 
+
+https://2019.spaceappschallenge.org/challenges/earths-oceans/internet-ocean/details
+
+The solution: 
+
+Sea-fi was born from the need of people to stay connected. Have you ever imagined the possibilities of keeping your connection on your devices even in the ocean? We came to make it possible. 
+Through Internet of Things (IoT) devices, strategically distributed along the coastal area of state of São Paulo, you can connect to the rest of the world through our network. 
+We will use buoys as access points and wi-fi repeaters to deliver internet to the people who work on the seas and many times don’t have conditions or access points to afford an internet plan via satellite, considering that today the human kind is each time relying more on the internet to their safety, security, entertainment, health and family. 
+
+Software: 
+
+We looked forward to create a map demonstrating the buoys available, in the example resources we saw that the examples provided by NASA were focusing on space internet connection, as the data didn’t suit our goal, we used the Google Maps API to gather buoy information. 
+The application’s backend was created with ASP.NET Core, C#, SQL Server and Entity Framework to connect them. The Frontend was built with HTML5, CSS3, JavaScript, Bootstrap and jQuery. 
+
+Hardware component list:
+
+- Raspberry PI 4 
+- Ethernet Shield
+- Brazilian Marine Floater 
+- Sun Charger 
+- Satellite 
+- Antenna
+
+Business case overview:
+Our business model consists of the renting of a Satellite signal and consuming it through one on land antenna. The 6 Raspberries will be attached to the buoys floating on the sea. Each one of those equipped with an DNT900 to redistribute the signal for the end clients. 
+We will provide access to a range of people ashore, from individuals to companies.
